@@ -15,7 +15,8 @@ interface NodeModule {
 })
 export class AppComponent {
   name = 'Maria Antonieta Pampena';
-  title = 'Medico Negrofolo';
+  title = 'Internista - Nefrólogo';
+  about_me = '';
 
   anio = new Date().getFullYear();
 }
